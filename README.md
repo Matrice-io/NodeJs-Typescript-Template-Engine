@@ -15,3 +15,5 @@ The purpose of the project here is to build a minimalist templating-engine using
 6. You can check if the 'index.js' file generated is correct.
     
 7. If it's ok, you can then create a function 'compile' in 'index.ts' to inject some data in an html file.
+
+8. NB: You will have to create a new project folder containing an html file and some data to try this template-engine.
